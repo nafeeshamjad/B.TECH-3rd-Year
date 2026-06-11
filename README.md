@@ -1,2 +1,4 @@
 # B.TECH-3rd-Year
-Here in this repository i will post all the minor projects which i have done during me Btech 3rd year 
+Project Title-Cloud Based Attendance System 
+Description-Cloud-Based Attendance System that uses facial recognition for authentication. It is developed using Python, Django, OpenCV, and MySQL. The system automatically records attendance and stores data in a centralized database, making attendance management more secure and efficient.
+
